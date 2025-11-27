@@ -1,0 +1,41 @@
+# --- CONFIGURACIÓN BÁSICA ---
+title: "Nombre de tu Blog"
+description: "Análisis sobre tecnología, economía y el futuro de la IA."
+url: "" # Déjalo vacío si usas el dominio de github.io
+baseurl: ""
+
+# --- TEMA VISUAL (MINIMAL MISTAKES) ---
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air" # Piel "Air": blanco, limpio y minimalista
+
+# --- PLUGINS ---
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# --- PAGINACIÓN (Tus "últimas X entradas") ---
+paginate: 5             # Mostrará 5 artículos por página
+paginate_path: /page:num/
+
+# --- DATOS DEL AUTOR (Barra Lateral) ---
+author:
+  name: "Jesús Báez"
+  bio: "Analista de tecnología y sociedad."
+  location: "España"
+  # Puedes añadir redes sociales aquí abajo si quieres
+  # links:
+  #   - label: "Twitter"
+  #     url: "https://twitter.com/..."
+
+# --- CONFIGURACIÓN DE APARIENCIA ---
+locale: "es-ES" # Idioma español
+defaults:
+  # Por defecto, todos los posts tendrán la barra lateral del autor
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
