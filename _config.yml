@@ -40,3 +40,5 @@ author:
   # links:
   #   - label: "Twitter"
   #     url: "https://twitter.com/..."
+
+include: ["_pages"]
