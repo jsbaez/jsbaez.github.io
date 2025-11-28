@@ -2,7 +2,7 @@
 layout: single
 title: "Sobre mí"
 permalink: /about/
-author_profile: false
+author_profile: true
 ---
 
 Bienvenido a mi espacio personal.
