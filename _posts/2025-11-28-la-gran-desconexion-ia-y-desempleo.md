@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title: "La Gran Desconexión: Cuando la eficiencia se comió al empleo"
 date: 2025-11-28
-categories: [Economía Digital]
-tags: [Inteligencia Artificial, Desempleo, Futuro del Trabajo, Crisis Laboral]
+categories: [Economía, IA, Sociedad]
+tags: [IA, Desempleo, Futuro, Trabajo, Laboral]
 author: Jesús Báez
 excerpt: "A finales de 2025, los datos confirman lo que temíamos: la IA no está creando tantos empleos como destruye, y la brecha se acelera."
 ---
