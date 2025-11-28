@@ -5,7 +5,7 @@ url: "" # Déjalo vacío si usas el dominio de github.io
 baseurl: ""
 
 # --- TEMA VISUAL (MINIMAL MISTAKES) ---
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "air" # Piel "Air": blanco, limpio y minimalista
 
 # --- PLUGINS ---
@@ -13,6 +13,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # --- PAGINACIÓN (Tus "últimas X entradas") ---
 paginate: 5             # Mostrará 5 artículos por página
