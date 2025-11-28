@@ -31,9 +31,15 @@
 
   /* Ajuste estético para el banner */
   .page__hero--overlay {
-    min-height: 400px; /* Altura mínima del banner */
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 150px; /* Altura por defecto para móviles */
+  }
+
+  @media (min-width: 768px) { /* Para pantallas mayores o iguales a 768px (tablets y escritorio) */
+    .page__hero--overlay {
+      min-height: 250px; /* Altura para ordenador */
+    }
   }
 </style>
