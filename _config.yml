@@ -39,6 +39,7 @@ author:
   location: "España"
   links:
     - label: "X"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jsbaez"
 
 include: ["_pages"]
