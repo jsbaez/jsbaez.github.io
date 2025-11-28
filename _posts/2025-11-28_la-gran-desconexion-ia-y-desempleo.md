@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "La Gran Desconexión: Cuando la eficiencia se comió al empleo"
-date: 2025-12-01
+date: 2025-11-28
 categories: [Economía Digital]
 tags: [Inteligencia Artificial, Desempleo, Futuro del Trabajo, Crisis Laboral]
 author: Jesús Báez
