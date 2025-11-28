@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "La Gran Desconexión: Cuando la eficiencia se comió al empleo"
 date: 2025-11-28
 tags: [IA, Desempleo, Futuro, Trabajo, Laboral]
