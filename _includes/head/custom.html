@@ -1,0 +1,39 @@
+<style>
+  /* 1. AJUSTAR EL ANCHO AL 75% */
+  @media (min-width: 1024px) {
+    .page__content {
+      width: 75% !important; /* Fuerza el 75% del ancho */
+      max-width: 1400px;     /* Tope máximo para pantallas gigantes */
+      margin: 0 auto;        /* Centra el bloque en la pantalla */
+      float: none !important; /* Desactiva flotados del tema original */
+    }
+  }
+
+  /* 2. FORZAR 2 COLUMNAS EN EL GRID */
+  @media (min-width: 768px) {
+    .grid__item {
+      width: 48% !important; /* Un poco menos del 50% para dejar margen */
+      margin-left: 0 !important;
+      margin-right: 2% !important; /* Espacio entre columnas */
+      float: left;
+    }
+    
+    /* Quitamos el margen derecho a la columna par (la segunda) */
+    .grid__item:nth-child(2n) {
+      margin-right: 0 !important;
+    }
+    
+    /* Limpiamos el float cada 2 elementos para que no se descoloquen */
+    .grid__item:nth-child(2n+1) {
+      clear: both;
+    }
+  }
+
+  /* Ajuste estético para el banner */
+  .page__hero--overlay {
+    min-height: 400px; /* Altura mínima del banner */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
