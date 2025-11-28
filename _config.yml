@@ -1,22 +1,35 @@
-# --- CONFIGURACIÓN BÁSICA ---
+# --- DATOS DEL SITIO ---
 title: "Nombre de tu Blog"
+name: "Jesús Báez"
 description: "Análisis sobre tecnología, economía y el futuro de la IA."
-url: "" # Déjalo vacío si usas el dominio de github.io
-baseurl: ""
+url: "" 
+baseurl: "" 
+locale: "es-ES"
 
-# --- TEMA VISUAL (MINIMAL MISTAKES) ---
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-minimal_mistakes_skin: "air" # Piel "Air": blanco, limpio y minimalista
+# --- TEMA VISUAL ---
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air" # Diseño limpio
 
-# --- PLUGINS ---
+# --- PLUGINS NECESARIOS ---
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-include-cache
 
-# --- PAGINACIÓN (Tus "últimas X entradas") ---
-paginate: 5             # Mostrará 5 artículos por página
+# --- CONFIGURACIÓN DE ESTILO ---
+# Esto activa la barra lateral con tu foto en todas las páginas
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+# --- PAGINACIÓN ---
+paginate: 5
 paginate_path: /page:num/
 
 # --- DATOS DEL AUTOR (Barra Lateral) ---
@@ -24,19 +37,6 @@ author:
   name: "Jesús Báez"
   bio: "Analista de tecnología y sociedad."
   location: "España"
-  # Puedes añadir redes sociales aquí abajo si quieres
   # links:
   #   - label: "Twitter"
   #     url: "https://twitter.com/..."
-
-# --- CONFIGURACIÓN DE APARIENCIA ---
-locale: "es-ES" # Idioma español
-defaults:
-  # Por defecto, todos los posts tendrán la barra lateral del autor
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      share: true
