@@ -1,14 +1,14 @@
 # --- DATOS DEL SITIO ---
-title: "Nombre de tu Blog"
-name: "Jesús Báez"
-description: "Análisis sobre tecnología, economía y el futuro de la IA."
+title: "Sinapsis"
+name: "Sinapsis"
+description: "Conectando tecnología y sociedad."
 url: "" 
 baseurl: "" 
 locale: "es-ES"
 
 # --- TEMA VISUAL ---
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air" # Diseño limpio
+minimal_mistakes_skin: "air"
 
 # --- PLUGINS NECESARIOS ---
 plugins:
@@ -25,11 +25,11 @@ defaults:
       path: ""
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
 
 # --- PAGINACIÓN ---
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
 
 # --- DATOS DEL AUTOR (Barra Lateral) ---
@@ -37,8 +37,8 @@ author:
   name: "Jesús Báez"
   bio: "Analista de tecnología y sociedad."
   location: "España"
-  # links:
-  #   - label: "Twitter"
-  #     url: "https://twitter.com/..."
+  links:
+    - label: "X"
+      url: "https://x.com/jsbaez"
 
 include: ["_pages"]
