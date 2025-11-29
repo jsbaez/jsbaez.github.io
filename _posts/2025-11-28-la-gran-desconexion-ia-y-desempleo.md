@@ -1,10 +1,12 @@
 ---
-layout: single
+layout: post
 title: "La Gran Desconexión: Cuando la eficiencia se comió al empleo"
 date: 2025-11-28
 tags: [IA, Desempleo, Futuro, Trabajo, Laboral]
 author: Jesús Báez
 excerpt: "A finales de 2025, los datos confirman lo que temíamos: la IA no está creando tantos empleos como destruye, y la brecha se acelera."
+header:
+  teaser: "assets/images/banner-home.png"
 ---
 
 Estamos a los inicios de diciembre de 2025 y creo que es hora de que dejemos de mentirnos a nosotros mismos. Durante los últimos tres años, hemos repetido como un mantra tranquilizador aquella vieja promesa de las revoluciones industriales pasadas: "la tecnología no destruye empleo, solo lo transforma". Nos aferramos a la idea de que la Inteligencia Artificial sería un "copiloto"  , una herramienta para hacernos más productivos, no para reemplazarnos. Me gustaría conocer la opinión de Microsoft sobre los copilotos X) /s.

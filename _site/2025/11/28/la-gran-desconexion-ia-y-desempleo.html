@@ -1,0 +1,432 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="es-ES" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>La Gran Desconexión: Cuando la eficiencia se comió al empleo - Sinapsis</title>
+<meta name="description" content="A finales de 2025, los datos confirman lo que temíamos: la IA no está creando tantos empleos como destruye, y la brecha se acelera.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="Sinapsis">
+<meta property="og:title" content="La Gran Desconexión: Cuando la eficiencia se comió al empleo">
+<meta property="og:url" content="http://localhost:4000/2025/11/28/la-gran-desconexion-ia-y-desempleo.html">
+
+
+  <meta property="og:description" content="A finales de 2025, los datos confirman lo que temíamos: la IA no está creando tantos empleos como destruye, y la brecha se acelera.">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/banner-home.png">
+
+
+
+
+
+  <meta property="article:published_time" content="2025-11-28T00:00:00+01:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/2025/11/28/la-gran-desconexion-ia-y-desempleo.html">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Sinapsis Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <style>
+
+  .archive {
+    width: 95%;
+    margin: 0 auto;
+    float: none !important;
+    padding-inline-end: 0 !important;
+  }
+
+  @media (min-width: 48em) {
+    .archive {
+      width: 85%;
+    }
+  }
+
+  @media (min-width: 64em) {
+    .archive {
+      width: 85% !important; 
+      max-width: 1400px;
+    }
+  }
+
+  .page__hero--overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 150px;
+  }
+
+  @media (min-width: 768px) {
+    .page__hero--overlay {
+      min-height: 250px;
+    }
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+  }
+
+  @media (min-width: 768px) {
+    .post-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .custom-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  }
+  .custom-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  }
+
+  .card-image-link a {
+    text-decoration: none;
+    display: block;
+  }
+
+  .card-image {
+    position: relative;
+    height: 0;
+    padding-bottom: 45%; 
+    background-size: cover;
+    background-position: center;
+    background-color: #f0f0f0;
+  }
+  
+  .card-image::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.7) 100%);
+  }
+
+  .card-title {
+    position: absolute;
+    bottom: 0.75rem;
+    left: 1rem;
+    right: 1rem;
+    color: white;
+    z-index: 2;
+    margin: 0;
+    font-size: 1.3rem;
+    line-height: 1.3;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  }
+
+  .card-content {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+  
+  .card-excerpt p {
+    margin: 0 0 1rem 0;
+    color: #555;
+    font-size: 0.95rem;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    color: #777;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 0.75rem;
+  }
+
+  .card-tags {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .card-tag {
+    background-color: #f2f2f2;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: #666;
+  }
+
+  @media (min-width: 64em) {
+    .page--post {
+      width: 100% !important;
+      padding-inline-end: 0 !important;
+      float: none !important;
+    }
+  }
+
+  .page__content {
+    text-align: justify;
+  }
+
+  .page__title {
+    margin-top: 2em !important;    
+    margin-bottom: 1.5em !important; 
+    text-align: center;
+  }
+
+  .page__feature-image img {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+
+  /* --- AJUSTE DE ESPACIADO DE CONTENIDO EN PÁGINA "ABOUT" CON SIDEBAR --- */
+  @media (min-width: 64em) { /* Aplicar solo en desktop para respetar el diseño responsive */
+    .page--about {
+      padding-inline-end: 0 !important; /* Elimina el padding extra para que el contenido se extienda */
+    }
+  }
+</style>
+  </head>
+
+  <body class="layout--post" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Saltar a navegación principal</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Saltar a contenido</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Saltar a pie</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Sinapsis
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/"
+                
+                
+              >Inicio</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >Sobre mí</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Alternar menú</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+
+<div id="main" role="main">
+  
+
+  <article class="page page--post" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="La Gran Desconexión: Cuando la eficiencia se comió al empleo">
+    <meta itemprop="description" content="A finales de 2025, los datos confirman lo que temíamos: la IA no está creando tantos empleos como destruye, y la brecha se acelera.">
+    <meta itemprop="datePublished" content="2025-11-28T00:00:00+01:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+              <a href="http://localhost:4000/2025/11/28/la-gran-desconexion-ia-y-desempleo.html" itemprop="url">La Gran Desconexión: Cuando la eficiencia se comió al empleo
+</a>
+            </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <figure class="page__feature-image">
+            <img src="/assets/images/banner-home.png" alt="Imagen destacada del post">
+          </figure>
+        
+        
+        <p>Estamos a los inicios de diciembre de 2025 y creo que es hora de que dejemos de mentirnos a nosotros mismos. Durante los últimos tres años, hemos repetido como un mantra tranquilizador aquella vieja promesa de las revoluciones industriales pasadas: “la tecnología no destruye empleo, solo lo transforma”. Nos aferramos a la idea de que la Inteligencia Artificial sería un “copiloto”  , una herramienta para hacernos más productivos, no para reemplazarnos. Me gustaría conocer la opinión de Microsoft sobre los copilotos X) /s.</p>
+
+<p>Sin embargo, si miramos por la ventana de la economía global en este cierre de año, el paisaje es muy distinto al que nos vendieron los optimistas de Silicon Valley. La realidad se ha impuesto con la frialdad de un algoritmo bien entrenado. Nos encontramos ante una desconexión histórica entre la productividad empresarial y la necesidad de mano de obra humana. Y duele admitirlo, pero la “Idea Bruta” que muchos temían en silencio se está cumpliendo: el desempleo estructural está aumentando, y la IA es la causa principal.</p>
+
+<p>Lo que estamos viendo no es una recesión clásica; es algo nuevo. Las empresas tecnológicas y del S&amp;P 500 están presentando balances con beneficios récord, márgenes operativos nunca vistos y una eficiencia envidiable. Pero, paradójicamente, lo están haciendo con plantillas cada vez más reducidas.</p>
+
+<p>La ecuación se ha roto. Antes, para que una empresa creciera un 20% en ingresos, necesitaba contratar gente que gestionara ese crecimiento. Ahora, simplemente necesita escalar su capacidad de cómputo y adquirir más licencias de agentes autónomos.</p>
+
+<p>El problema radica en la velocidad. Ese es el factor que los economistas tradicionales subestimaron. Como señalaba el Fondo Monetario Internacional (FMI) en sus proyecciones sobre la exposición laboral a la IA (https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity), el impacto en las economías avanzadas sería inmediato. Y así ha sido. No hemos tenido una generación para adaptarnos, como ocurrió con la máquina de vapor, la electricidad o internet; hemos tenido apenas 36 meses.</p>
+
+<p>Fíjense en el sector de los servicios, el gran motor del empleo en Occidente. Nos dijeron que la creatividad y la empatía eran blindajes humanos insustituibles. Pero la llegada de los modelos multimodales avanzados a principios de este año demostró que “creatividad” comercial (diseño gráfico básico, redacción de contenidos, edición de video) es fácilmente automatizable.</p>
+
+<p>Las agencias de marketing, los bufetes de abogados y las consultoras no han desaparecido, pero sus estructuras piramidales se han aplanado violentamente. Ya no necesitan un ejército de “juniors” para procesar datos o redactar borradores. Ese escalón de entrada al mercado laboral, el aprendizaje mediante la tarea repetitiva, ha sido vaporizado por el software.</p>
+
+<p>La programación ha sido una de las primeras barreras en caer. Las herramientas de codificación asistida por IA han aumentado la productividad de los desarrolladores senior en un 100% o más, lo que significa que las empresas necesitan la mitad de ingenieros para hacer el mismo trabajo.</p>
+
+<p>No se trata de ser luditas ni de querer frenar el progreso. La tecnología es fascinante y los avances médicos y científicos que estamos logrando gracias a la IA son milagrosos. Pero como analistas, debemos separar el progreso técnico del bienestar social. No van necesariamente de la mano.</p>
+
+<p>El argumento habitual en contra de mi postura es que están surgiendo “nuevos trabajos” o “una IA nunca sera tan bueno como una persona”. Sí, claro que existen los “ingenieros de prompts” (aunque ya están evolucionando hacia orquestadores de agentes) y los “auditores de ética de IA”. Pero seamos serios con las matemáticas.</p>
+
+<p>Por cada nuevo puesto de “especialista en integración de IA” que se crea, se vuelven redundantes otros puestos de áreas diversas (administrativos, diseñadores, analistas, etc). La aritmética de la creación de empleo no compensa la aritmética de la destrucción. La relación no es 1 a 1; es probablemente 1 a 10.</p>
+
+<p>Además, hay un efecto psicológico en el mercado. La incertidumbre. Los directivos, viendo la capacidad exponencial de mejora de estas herramientas, han congelado las contrataciones “por si acaso”. ¿Para qué contratar a un equipo de atención al cliente hoy, si en el corto plazo los modelos LLM podrán gestionar llamadas de voz con empatía humana indistinguible y a coste marginal cero?</p>
+
+<p>Esta “espera estratégica” ha provocado una parálisis en la contratación que se está sintiendo en todas las capas de la sociedad. Y lo más grave es que esto ya no afecta solo a los trabajadores de “cuello azul” en las fábricas, sino que golpea directamente a la clase media aspiracional, a los trabajadores del conocimiento.</p>
+
+<p>Si revisamos el reciente informe del Foro Económico Mundial sobre el futuro de los empleos (https://www.weforum.org/publications/the-future-of-jobs-report-2023/), ya se vislumbraba esta perturbación estructural. Pero la realidad de 2025 nos muestra que la perturbación es más profunda porque ataca la base imponible de los estados. Menos trabajadores humanos significa menos impuestos sobre la renta, lo que pone en jaque el sistema de bienestar.</p>
+
+<p>Entonces, ¿qué nos espera en los próximos cinco años? Si la tendencia actual se mantiene, y todo indica que sera así. Aunque existe una probabilidad de una aceleración con la llegada de la computación cuántica, Microsoft es la una de las  empresas en tener una apuesta fuerte sobre este tema (https://news.microsoft.com/source/latam/noticias-de-microsoft/microsoft-presenta-majorana-1-el-primer-procesador-cuantico-del-mundo-impulsado-por-qubits-topologicos/), nos enfrentamos a un desempleo estructural crónico alto en sectores que antes considerábamos seguros.</p>
+
+<p>La IA no se va a detener. La eficiencia es una droga demasiado potente para el capitalismo. Las empresas seguirán automatizando porque no hacerlo significa la muerte competitiva. Si tu competidor usa una IA para reducir sus costes un 40%, tú no puedes seguir operando a la antigua usanza.</p>
+
+<p>Esto nos lleva a una conclusión inevitable, una que hace cinco años parecía cosa de utopistas radicales: necesitamos un nuevo contrato social. La idea de que “trabajar para vivir” es la única vía de subsistencia se está volviendo obsoleta porque el sistema ya no necesita nuestro trabajo para generar riqueza, solo necesita nuestro consumo, esto lo explica bien mi colega Elon /s en este video (https://www.youtube.com/shorts/k8-_qGsQVZo).</p>
+
+<p>Es probable que de aquí a 2030, el debate político número uno en todas las democracias occidentales no sea la inmigración o la identidad, sino la implementación de una Renta Básica Universal o un mecanismo de “Dividendo Digital”. No por caridad, sino por pura supervivencia económica. Si los algoritmos hacen el trabajo, ¿quién tendrá dinero para comprar los productos?</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Actualizado:</strong> <time class="dt-published" datetime="2025-11-28T00:00:00+01:00">November 28, 2025</time></p>
+
+      </footer>
+
+      
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Seguir:</strong></li>
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2025 <a href="http://localhost:4000">Sinapsis</a>. Funciona con <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

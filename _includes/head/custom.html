@@ -1,45 +1,166 @@
 <style>
-  /* 1. AJUSTAR EL ANCHO AL 75% */
-  @media (min-width: 1024px) {
-    .page__content {
-      width: 75% !important; /* Fuerza el 75% del ancho */
-      max-width: 1400px;     /* Tope máximo para pantallas gigantes */
-      margin: 0 auto;        /* Centra el bloque en la pantalla */
-      float: none !important; /* Desactiva flotados del tema original */
+
+  .archive {
+    width: 95%;
+    margin: 0 auto;
+    float: none !important;
+    padding-inline-end: 0 !important;
+  }
+
+  @media (min-width: 48em) {
+    .archive {
+      width: 85%;
     }
   }
 
-  /* 2. FORZAR 2 COLUMNAS EN EL GRID */
-  @media (min-width: 768px) {
-    .grid__item {
-      width: 48% !important; /* Un poco menos del 50% para dejar margen */
-      margin-left: 0 !important;
-      margin-right: 2% !important; /* Espacio entre columnas */
-      float: left;
-    }
-    
-    /* Quitamos el margen derecho a la columna par (la segunda) */
-    .grid__item:nth-child(2n) {
-      margin-right: 0 !important;
-    }
-    
-    /* Limpiamos el float cada 2 elementos para que no se descoloquen */
-    .grid__item:nth-child(2n+1) {
-      clear: both;
+  @media (min-width: 64em) {
+    .archive {
+      width: 85% !important; 
+      max-width: 1400px;
     }
   }
 
-  /* Ajuste estético para el banner */
   .page__hero--overlay {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 150px; /* Altura por defecto para móviles */
+    min-height: 150px;
   }
 
-  @media (min-width: 768px) { /* Para pantallas mayores o iguales a 768px (tablets y escritorio) */
+  @media (min-width: 768px) {
     .page__hero--overlay {
-      min-height: 250px; /* Altura para ordenador */
+      min-height: 250px;
+    }
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+  }
+
+  @media (min-width: 768px) {
+    .post-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .custom-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  }
+  .custom-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  }
+
+  .card-image-link a {
+    text-decoration: none;
+    display: block;
+  }
+
+  .card-image {
+    position: relative;
+    height: 0;
+    padding-bottom: 45%; 
+    background-size: cover;
+    background-position: center;
+    background-color: #f0f0f0;
+  }
+  
+  .card-image::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.7) 100%);
+  }
+
+  .card-title {
+    position: absolute;
+    bottom: 0.75rem;
+    left: 1rem;
+    right: 1rem;
+    color: white;
+    z-index: 2;
+    margin: 0;
+    font-size: 1.3rem;
+    line-height: 1.3;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  }
+
+  .card-content {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+  
+  .card-excerpt p {
+    margin: 0 0 1rem 0;
+    color: #555;
+    font-size: 0.95rem;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    color: #777;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 0.75rem;
+  }
+
+  .card-tags {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .card-tag {
+    background-color: #f2f2f2;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: #666;
+  }
+
+  @media (min-width: 64em) {
+    .page--post {
+      width: 100% !important;
+      padding-inline-end: 0 !important;
+      float: none !important;
+    }
+  }
+
+  .page__content {
+    text-align: justify;
+  }
+
+  .page__title {
+    margin-top: 2em !important;    
+    margin-bottom: 1.5em !important; 
+    text-align: center;
+  }
+
+  .page__feature-image img {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+
+  /* --- AJUSTE DE ESPACIADO DE CONTENIDO EN PÁGINA "ABOUT" CON SIDEBAR --- */
+  @media (min-width: 64em) { /* Aplicar solo en desktop para respetar el diseño responsive */
+    .page--about {
+      padding-inline-end: 0 !important; /* Elimina el padding extra para que el contenido se extienda */
     }
   }
 </style>

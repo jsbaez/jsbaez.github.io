@@ -1,16 +1,14 @@
 ---
-layout: home
-title: " "  
+layout: home-custom
+title: " "
 author_profile: false
-
-# 1. EL BANNER (Imagen de fondo)
 header:
   overlay_image: /assets/images/banner-home.png
-  overlay_filter: 0.2 # Oscurece la imagen un 50% para que el texto resalte (opcional)
-
-# 2. ACTIVAR MODO REJILLA
-entries_layout: grid
-
-# 3. ACTIVAR ANCHO COMPLETO (Para luego reducirlo al 75%)
-classes: wide
+  overlay_filter: 0.2
 ---
+
+<div class="post-grid">
+  {% for post in paginator.posts %}
+    {% include custom-post-card.html post=post %}
+  {% endfor %}
+</div>

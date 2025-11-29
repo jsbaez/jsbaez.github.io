@@ -36,10 +36,13 @@ paginate_path: /page:num/
 author:
   name: "Jesús Báez"
   bio: "Analista de tecnología y sociedad."
-  location: "España"
+  location: "Zaragoza - España"
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "@jsbaez"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/jsbaez"
+    - label: "Jesús Báez"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jsbaez/"
 
 include: ["_pages"]

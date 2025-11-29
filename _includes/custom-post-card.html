@@ -1,0 +1,27 @@
+<!-- _includes/custom-post-card.html -->
+<article class="custom-card">
+  <div class="card-image-link">
+    <a href="{{ include.post.url | relative_url }}">
+      <div class="card-image" {% if include.post.header.teaser %}style="background-image: url('{{ include.post.header.teaser | relative_url }}');"{% endif %}>
+        <h2 class="card-title">{{ include.post.title }}</h2>
+      </div>
+    </a>
+  </div>
+  <div class="card-content">
+    <div class="card-excerpt">
+      <p>
+        {{ include.post.excerpt | strip_html | truncatewords: 40 }}
+      </p>
+    </div>
+    <footer class="card-footer">
+      <span class="card-date">{{ include.post.date | date: "%-d %b, %Y" }}</span>
+      {% if include.post.tags.size > 0 %}
+        <div class="card-tags">
+          {% for tag in include.post.tags limit:3 %}
+            <span class="card-tag">#{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </footer>
+  </div>
+</article>
