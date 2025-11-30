@@ -5,6 +5,8 @@ description: "Conectando tecnología y sociedad."
 url: "" 
 baseurl: "" 
 locale: "es-ES"
+favicon: "/assets/images/favicon.ico"
+logo: "/assets/images/logo.png"
 
 # --- TEMA VISUAL ---
 remote_theme: mmistakes/minimal-mistakes

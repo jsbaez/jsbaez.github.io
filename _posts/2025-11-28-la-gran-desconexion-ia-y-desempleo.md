@@ -6,10 +6,10 @@ tags: [IA, Desempleo, Futuro, Trabajo, Laboral]
 author: Jesús Báez
 excerpt: "A finales de 2025, los datos confirman lo que temíamos: la IA no está creando tantos empleos como destruye, y la brecha se acelera."
 header:
-  teaser: "assets/images/banner-home.png"
+  teaser: "assets/images/ia-desempleo.png"
 ---
 
-Estamos a los inicios de diciembre de 2025 y creo que es hora de que dejemos de mentirnos a nosotros mismos. Durante los últimos tres años, hemos repetido como un mantra tranquilizador aquella vieja promesa de las revoluciones industriales pasadas: "la tecnología no destruye empleo, solo lo transforma". Nos aferramos a la idea de que la Inteligencia Artificial sería un "copiloto"  , una herramienta para hacernos más productivos, no para reemplazarnos. Me gustaría conocer la opinión de Microsoft sobre los copilotos X) /s.
+Estamos a los inicios de diciembre de 2025 y creo que es hora de que dejemos de mentirnos a nosotros mismos. Durante los últimos tres años, hemos repetido como un mantra tranquilizador aquella vieja promesa de las revoluciones industriales pasadas: "la tecnología no destruye empleo, solo lo transforma". Nos aferramos a la idea de que la Inteligencia Artificial sería un "copiloto", una herramienta para hacernos más productivos, no para reemplazarnos. Me gustaría conocer la opinión de Microsoft sobre los copilotos X) /s.
 
 Sin embargo, si miramos por la ventana de la economía global en este cierre de año, el paisaje es muy distinto al que nos vendieron los optimistas de Silicon Valley. La realidad se ha impuesto con la frialdad de un algoritmo bien entrenado. Nos encontramos ante una desconexión histórica entre la productividad empresarial y la necesidad de mano de obra humana. Y duele admitirlo, pero la "Idea Bruta" que muchos temían en silencio se está cumpliendo: el desempleo estructural está aumentando, y la IA es la causa principal.
 
@@ -17,7 +17,7 @@ Lo que estamos viendo no es una recesión clásica; es algo nuevo. Las empresas 
 
 La ecuación se ha roto. Antes, para que una empresa creciera un 20% en ingresos, necesitaba contratar gente que gestionara ese crecimiento. Ahora, simplemente necesita escalar su capacidad de cómputo y adquirir más licencias de agentes autónomos.
 
-El problema radica en la velocidad. Ese es el factor que los economistas tradicionales subestimaron. Como señalaba el Fondo Monetario Internacional (FMI) en sus proyecciones sobre la exposición laboral a la IA (https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity), el impacto en las economías avanzadas sería inmediato. Y así ha sido. No hemos tenido una generación para adaptarnos, como ocurrió con la máquina de vapor, la electricidad o internet; hemos tenido apenas 36 meses.
+El problema radica en la velocidad. Ese es el factor que los economistas tradicionales subestimaron. Como señalaba el Fondo Monetario Internacional (FMI) en sus [proyecciones sobre la exposición laboral a la IA](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity), el impacto en las economías avanzadas sería inmediato. Y así ha sido. No hemos tenido una generación para adaptarnos, como ocurrió con la máquina de vapor, la electricidad o internet; hemos tenido apenas 36 meses.
 
 Fíjense en el sector de los servicios, el gran motor del empleo en Occidente. Nos dijeron que la creatividad y la empatía eran blindajes humanos insustituibles. Pero la llegada de los modelos multimodales avanzados a principios de este año demostró que "creatividad" comercial (diseño gráfico básico, redacción de contenidos, edición de video) es fácilmente automatizable.
 
@@ -35,13 +35,12 @@ Además, hay un efecto psicológico en el mercado. La incertidumbre. Los directi
 
 Esta "espera estratégica" ha provocado una parálisis en la contratación que se está sintiendo en todas las capas de la sociedad. Y lo más grave es que esto ya no afecta solo a los trabajadores de "cuello azul" en las fábricas, sino que golpea directamente a la clase media aspiracional, a los trabajadores del conocimiento.
 
-Si revisamos el reciente informe del Foro Económico Mundial sobre el futuro de los empleos (https://www.weforum.org/publications/the-future-of-jobs-report-2023/), ya se vislumbraba esta perturbación estructural. Pero la realidad de 2025 nos muestra que la perturbación es más profunda porque ataca la base imponible de los estados. Menos trabajadores humanos significa menos impuestos sobre la renta, lo que pone en jaque el sistema de bienestar.
+Si revisamos el reciente [informe del Foro Económico Mundial sobre el futuro de los empleos](https://www.weforum.org/publications/the-future-of-jobs-report-2023/), ya se vislumbraba esta perturbación estructural. Pero la realidad de 2025 nos muestra que la perturbación es más profunda porque ataca la base imponible de los estados. Menos trabajadores humanos significa menos impuestos sobre la renta, lo que pone en jaque el sistema de bienestar.
 
-Entonces, ¿qué nos espera en los próximos cinco años? Si la tendencia actual se mantiene, y todo indica que sera así. Aunque existe una probabilidad de una aceleración con la llegada de la computación cuántica, Microsoft es la una de las  empresas en tener una apuesta fuerte sobre este tema (https://news.microsoft.com/source/latam/noticias-de-microsoft/microsoft-presenta-majorana-1-el-primer-procesador-cuantico-del-mundo-impulsado-por-qubits-topologicos/), nos enfrentamos a un desempleo estructural crónico alto en sectores que antes considerábamos seguros.
+Entonces, ¿qué nos espera en los próximos cinco años? Si la tendencia actual se mantiene, y todo indica que sera así. Aunque existe una probabilidad de una aceleración con la llegada de la computación cuántica, [Microsoft es la una de las empresas en tener una apuesta fuerte sobre este tema](https://news.microsoft.com/source/latam/noticias-de-microsoft/microsoft-presenta-majorana-1-el-primer-procesador-cuantico-del-mundo-impulsado-por-qubits-topologicos/), nos enfrentamos a un desempleo estructural crónico alto en sectores que antes considerábamos seguros.
 
 La IA no se va a detener. La eficiencia es una droga demasiado potente para el capitalismo. Las empresas seguirán automatizando porque no hacerlo significa la muerte competitiva. Si tu competidor usa una IA para reducir sus costes un 40%, tú no puedes seguir operando a la antigua usanza.
 
-Esto nos lleva a una conclusión inevitable, una que hace cinco años parecía cosa de utopistas radicales: necesitamos un nuevo contrato social. La idea de que "trabajar para vivir" es la única vía de subsistencia se está volviendo obsoleta porque el sistema ya no necesita nuestro trabajo para generar riqueza, solo necesita nuestro consumo, esto lo explica bien mi colega Elon /s en este video (https://www.youtube.com/shorts/k8-_qGsQVZo).
+Esto nos lleva a una conclusión inevitable, una que hace cinco años parecía cosa de utopistas radicales: necesitamos un nuevo contrato social. La idea de que "trabajar para vivir" es la única vía de subsistencia se está volviendo obsoleta porque el sistema ya no necesita nuestro trabajo para generar riqueza, solo necesita nuestro consumo, [esto lo explica bien mi colega Elon (;)) en este video](https://www.youtube.com/shorts/k8-_qGsQVZo).
 
 Es probable que de aquí a 2030, el debate político número uno en todas las democracias occidentales no sea la inmigración o la identidad, sino la implementación de una Renta Básica Universal o un mecanismo de "Dividendo Digital". No por caridad, sino por pura supervivencia económica. Si los algoritmos hacen el trabajo, ¿quién tendrá dinero para comprar los productos?
-
