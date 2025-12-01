@@ -39,6 +39,7 @@ author:
   name: "Jesús Báez"
   bio: "Analista de tecnología y sociedad."
   location: "Zaragoza - España"
+  #avatar: "/assets/images/jesus-baez.jpg"
   links:
     - label: "@jsbaez"
       icon: "fab fa-fw fa-x-twitter"
