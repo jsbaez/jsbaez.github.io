@@ -4,7 +4,7 @@ title: "Willow y Quantum Echoes: El fin de la inocencia digital"
 date: 2025-12-08
 tags: [Computación Cuántica, IA, Futuro]
 author: Jesús Báez
-excerpt: "Ya no es ciencia ficción. La convergencia entre el chip Willow y el algoritmo Quantum Echoes marca el inicio real de la era cuántica."
+excerpt: "Ya no es ciencia ficción. La convergencia entre el chip Willow y el algoritmo Quantum Echoes marca el inicio real de la era cuántica y la aceleración de la IA."
 header:
   teaser: "assets/images/grafico-exponencial-ia.png"
 ---
