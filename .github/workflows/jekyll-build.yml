@@ -24,7 +24,7 @@ jobs:
       - name: Configurar Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # O la versión que uses
+          ruby-version: '3.2' # O la versión que uses
           bundler-cache: true
 
       - name: Construir sitio
