@@ -1,0 +1,52 @@
+name: Construir y Publicar Jekyll
+
+on:
+  # 1. Se ejecuta cuando haces push a la rama main (lo estándar)
+  push:
+    branches:
+      - main
+
+  # 2. Se ejecuta PROGRAMÁTICAMENTE por tiempo (Cron)
+  # Ejemplo: Todos los días a las 8:00 UTC
+  schedule:
+    - cron:  '0 8 * * *'
+
+  # 3. Se ejecuta manualmente desde la interfaz de GitHub o vía API
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # O la versión que uses
+          bundler-cache: true
+
+      - name: Construir sitio
+        run: bundle exec jekyll build
+
+      # Aquí usamos una acción oficial para desplegar en Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-and-deploy
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
