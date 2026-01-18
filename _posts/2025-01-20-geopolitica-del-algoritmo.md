@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El algoritmo tiene sed: Por qué EE.UU. realmente intervino en Venezuela"
-date: 2025-01-20
+date: 2026-01-20
 tags: [Geopolítica, IA, Energía, Venezuela, Tech]
 author: Jesús Báez
 excerpt: "La narrativa de los Derechos Humanos es la fachada. La realidad es que la Inteligencia Artificial necesita comer y nosotros somos el combustible."
