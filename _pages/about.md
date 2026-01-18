@@ -5,23 +5,12 @@ permalink: /about/
 author_profile: true
 ---
 
-Bienvenido a este espacio donde comento noticias de tecnología y su impacto en la sociedad, la economía y otras áreas de la vida.
+Hola lector, me llamo Jesús Báez, naci en una Venezuela que ya solo existe en los libros de historia, antes de la era chavista, aunque España ha sido mi hogar durante los ultimos veinte años. Ese cambio de latitud fue determinante, vivir aqui es lo que me abrio las puertas a jugar en las grandes ligas del desarrollo de software, permitiendome participar en proyectos de una escala que de otro modo habria sido inalcanzable.
 
-## ¿Quién soy?
+En el fondo, soy un fisico-matematico frustrado que supo darle la vuelta al guion. Converti lo que era un simple hobby —la informatica— en mi profesion y sustento, mientras que mi verdadera pasion —la fisica— paso a ser mi refugio y mi hobby. Llevo mas de quince años en las trincheras, no solo escribiendo codigo, sino diseñando las arquitecturas que sostienen operaciones criticas. He pasado por todo: desde optimizar la logistica global de grandes retailers y definir las entrañas de sistemas aseguradores, hasta garantizar que las comunicaciones de mision critica no fallen cuando mas se necesitan.
 
-Soy un apasionado de la ciencia y tecnología, con una trayectoria consolidada de más de **quince años** en el ciclo completo del desarrollo de software. Mi carrera se ha centrado en diseñar arquitecturas robustas y escalables, trabajando en las "tripas" de los sistemas que sostienen grandes operaciones empresariales.
 
-## Mi Experiencia en las Trincheras
+### Sobre lo que lees aqui
 
-He tenido la oportunidad de participar y liderar técnicamente proyectos complejos en sectores estratégicos, enfocándome siempre en la eficiencia y la calidad del producto final. Sin mencionar marcas, mi huella profesional abarca:
 
-* **Retail y Logística a Gran Escala:** He contribuido al desarrollo de sistemas de nueva generación para la **Gestión de Almacenes (SGA)** orientados a optimizar operaciones globales, así como herramientas críticas para la **planificación estratégica** de aperturas y la gestión centralizada de inventario.
-* **Sector Asegurador:** He colaborado directamente con equipos de arquitectura corporativa para la implantación de sistemas de calidad y el desarrollo de **frameworks internos** que estandarizan y aceleran la creación de nuevas aplicaciones.
-* **Comunicaciones de Misión Crítica:** Trabajé en el diseño e implementación de componentes para **sistemas de comunicación privada segura** y aplicaciones geoespaciales (GIS), entornos donde la alta disponibilidad es innegociable.
-* **Automatización Industrial:** Participé activamente en la modernización de software de **gestión logística** y automatización para clientes industriales de gran envergadura.
-
-## Sobre este Blog
-
-Olvídate de las noticias de tecnología convencionales. Este rincón es mi laboratorio personal, un espacio donde intento conectar los puntos entre la innovación digital y la realidad humana. Me fascina observar cómo la tecnología deja de ser una herramienta para convertirse en un agente que moldea nuestra economía, altera el tablero geopolítico y transforma nuestra forma de relacionarnos.
-
-Aquí no encontrarás verdades absolutas, sino mis propias perspectivas y divagaciones. Escribo lo que pienso, lanzando ideas al aire que pueden ser visionarias o estar completamente equivocadas. Es simplemente mi visión del mundo, filtrada por mi experiencia y curiosidad, invitándote a detenernos un momento a pensar hacia dónde nos dirigimos realmente.
+Este blog, es un volcado directo de mi mente sin filtros corporativos. Quiero ser muy claro, **esto es opinion, no periodismo**. Lo que encuentres aqui son analisis subjetivos que pueden resultar profeticos o estar completamente equivocados; el tiempo lo dira. Ademas, no escribo desde una torre de marfil. Mi redacción es un reflejo directo de mi estado de animo. Si un articulo te parece acido, molesto o especialmente critico, es probablemente porque el tema me irritaba en el momento de escribirlo. Aqui no hay objetividad impostada, solo la vision honesta de un ingeniero intentando descifrar hacia donde nos lleva la tecnologia.

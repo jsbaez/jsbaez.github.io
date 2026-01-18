@@ -6,7 +6,7 @@ tags: [Geopolítica, IA, Energía, Venezuela, Tech]
 author: Jesús Báez
 excerpt: "La narrativa de los Derechos Humanos es la fachada. La realidad es que la Inteligencia Artificial necesita comer y nosotros somos el combustible."
 header:
-  teaser: "assets/images/banner-home.png"
+  teaser: "assets/images/2025-01-20-geopolitica-del-algoritmo.png"
 ---
 
 Nos quieren vender que la reciente intervención en mi tierra natal, Venezuela, y la detención de su cúpula política es un acto de justicia divina. Un triunfo de la democracia sobre la tiranía. **Mentira.** Si algo hemos aprendido los venezolanos a las malas, tras años de ver cómo la comunidad internacional miraba hacia otro lado mientras se violaban sistemáticamente nuestros derechos, es que a las superpotencias no les mueven las lágrimas, les mueven los números. Y el número que ha desencadenado todo esto no es el de muertos en protestas, sino el de **Teravatios-hora**.
@@ -17,7 +17,7 @@ Olvidemos por un momento la retórica política. Vayamos a los datos crudos. Una
 
 La IA necesita "energía base": constante, fiable y masiva. Justo lo que ofrece el petróleo y el gas. Aquí es donde entra Venezuela.
 
-Como confirman los análisis de mercado, [las refinerías de la Costa del Golfo de EE.UU. fueron diseñadas específicamente para procesar el crudo pesado venezolano](https://www.lpgasmagazine.com/how-events-in-venezuela-affect-us-crude-supply/). No es casualidad: hasta hace unos 20 años, EE. UU. era el mayor comprador de crudo venezolano. Al intervenir y asegurar el flujo directo desde la Faja del Orinoco, Washington no solo enciende la luz de sus granjas de servidores en Virginia; también le corta el cable a China.
+Como confirman los análisis de mercado, [las refinerías de la Costa del Golfo de EE.UU. fueron diseñadas específicamente para procesar el crudo pesado venezolano](https://www.lpgasmagazine.com/how-events-in-venezuela-affect-us-crude-supply/). No es casualidad. Al intervenir y asegurar el flujo directo desde la Faja del Orinoco, Washington no solo enciende la luz de sus granjas de servidores en Virginia; también le corta el cable a China.
 
 Hasta ayer, Beijing era el principal cliente del crudo venezolano. Al cerrar ese grifo, EE. UU. obliga a su rival tecnológico a buscar energía más lejos y más cara, ralentizando su propia carrera por la supremacía digital. No es una guerra por la libertad; es una guerra por el *compute*.
 
