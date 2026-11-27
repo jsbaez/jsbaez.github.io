@@ -27,9 +27,9 @@ La programación ha sido una de las primeras barreras en caer. Las herramientas 
 
 No se trata de ser luditas ni de querer frenar el progreso. La tecnología es fascinante y los avances médicos y científicos que estamos logrando gracias a la IA son milagrosos. Pero como analistas, debemos separar el progreso técnico del bienestar social. No van necesariamente de la mano.
 
-El argumento habitual en contra de mi postura es que están surgiendo "nuevos trabajos" o "una IA nunca sera tan bueno como una persona". Sí, claro que existen los "ingenieros de prompts" (aunque ya están evolucionando hacia orquestadores de agentes) y los "auditores de ética de IA". Pero seamos serios con las matemáticas.
+El argumento habitual en contra de mi postura es que están surgiendo "nuevos trabajos" o "una IA nunca será tan bueno como una persona". Sí, claro que existen los "ingenieros de prompts" (aunque ya están evolucionando hacia orquestadores de agentes) y los "auditores de ética de IA". Pero seamos serios con las matemáticas.
 
-Por cada nuevo puesto de "especialista en integración de IA" que se crea, se vuelven redundantes otros puestos de áreas diversas (administrativos, diseñadores, analistas, etc). La aritmética de la creación de empleo no compensa la aritmética de la destrucción. La relación no es 1 a 1; es probablemente 1 a 10.
+Por cada nuevo puesto de "especialista en integración de IA" que se crea, se vuelven redundantes otros puestos de áreas diversas (administrativos, diseñadores, analistas, etc.). La aritmética de la creación de empleo no compensa la aritmética de la destrucción. La relación no es 1 a 1; es probablemente 1 a 10.
 
 Además, hay un efecto psicológico en el mercado. La incertidumbre. Los directivos, viendo la capacidad exponencial de mejora de estas herramientas, han congelado las contrataciones "por si acaso". ¿Para qué contratar a un equipo de atención al cliente hoy, si en el corto plazo los modelos LLM podrán gestionar llamadas de voz con empatía humana indistinguible y a coste marginal cero?
 
@@ -37,7 +37,7 @@ Esta "espera estratégica" ha provocado una parálisis en la contratación que s
 
 Si revisamos el reciente [informe del Foro Económico Mundial sobre el futuro de los empleos](https://www.weforum.org/publications/the-future-of-jobs-report-2023/), ya se vislumbraba esta perturbación estructural. Pero la realidad de 2025 nos muestra que la perturbación es más profunda porque ataca la base imponible de los estados. Menos trabajadores humanos significa menos impuestos sobre la renta, lo que pone en jaque el sistema de bienestar.
 
-Entonces, ¿qué nos espera en los próximos cinco años? Si la tendencia actual se mantiene, y todo indica que sera así. Aunque existe una probabilidad de una aceleración con la llegada de la computación cuántica, [Microsoft es la una de las empresas en tener una apuesta fuerte sobre este tema](https://news.microsoft.com/source/latam/noticias-de-microsoft/microsoft-presenta-majorana-1-el-primer-procesador-cuantico-del-mundo-impulsado-por-qubits-topologicos/), nos enfrentamos a un desempleo estructural crónico alto en sectores que antes considerábamos seguros.
+Entonces, ¿qué nos espera en los próximos cinco años? Si la tendencia actual se mantiene, y todo indica que será así. Aunque existe una probabilidad de una aceleración con la llegada de la computación cuántica, [Microsoft es la una de las empresas en tener una apuesta fuerte sobre este tema](https://news.microsoft.com/source/latam/noticias-de-microsoft/microsoft-presenta-majorana-1-el-primer-procesador-cuantico-del-mundo-impulsado-por-qubits-topologicos/), nos enfrentamos a un desempleo estructural crónico alto en sectores que antes considerábamos seguros.
 
 La IA no se va a detener. La eficiencia es una droga demasiado potente para el capitalismo. Las empresas seguirán automatizando porque no hacerlo significa la muerte competitiva. Si tu competidor usa una IA para reducir sus costes un 40%, tú no puedes seguir operando a la antigua usanza.
 

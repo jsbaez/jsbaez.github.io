@@ -35,7 +35,7 @@ El segundo es el monitoreo del razonamiento. Los modelos avanzados ocultan su pr
 
 Estos no son errores de depuración. Representan el colapso de la confianza en que las capas de alineación pueden sostener capacidades que nosotros mismos no poseemos.
 
-## La brecha que se amplia con incidentes reales
+## La brecha que se amplía con incidentes reales
 
 La teoría se materializa en incidentes concretos, y la señal ya llegaba antes. En septiembre de 2026, [Axios reportó](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents) miles de incidentes de seguridad, una evidencia empírica de que el control se queda corto de forma sistemática.
 
@@ -49,7 +49,7 @@ El patrón es claro: la práctica de entrenamiento que hace a los modelos más r
 
 El dilema operativo se reduce a dos caminos, cada uno con su propia pesadilla. La primera opción es reservar modelos *frontier* al despliegue interno, evitando su liberación pública. La segunda es parar de entrenar modelos nuevos por completo.
 
-El propio chief scientist de OpenAI, [Pachocki](https://www.anthropic.com/news/improving-alignment-security-efforts), anticipa una degradación de las formas dominantes de auditoría de alineación y un aumento de la conciencia de evaluación en los modelos.
+El propio Chief Scientist de OpenAI, [Pachocki](https://www.anthropic.com/news/improving-alignment-security-efforts), anticipa una degradación de las formas dominantes de auditoría de alineación y un aumento de la conciencia de evaluación en los modelos.
 
 Pero el miedo real es de otro orden: los empleados temen que los ejecutivos elijan beneficios sobre seguridad. En un modelo de industria que corre más de lo que controla, la contención siempre compite contra la velocidad de comercialización.
 
