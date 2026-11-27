@@ -9,7 +9,7 @@ header:
   teaser: "assets/images/2025-01-20-geopolitica-del-algoritmo.png"
 ---
 
-Nos quieren vender que la reciente intervención en mi tierra natal, Venezuela, y la detención de su cúpula política es un acto de justicia divina. Un triunfo de la democracia sobre la tiranía. **Mentira.** Si algo hemos aprendido los venezolanos a las malas, tras años de ver cómo la comunidad internacional miraba hacia otro lado mientras se violaban sistemáticamente nuestros derechos, es que a las superpotencias no les mueven las lágrimas, les mueven los números. Y el número que ha desencadenado todo esto no es el de muertos en protestas, sino el de **Teravatios-hora**.
+Nos quieren vender que la reciente intervención en mi tierra natal, Venezuela, y la detención de su cúpula política es un acto de justicia divina. Un triunfo de la democracia sobre la tiranía. **Mentira.** Si algo hemos aprendido los venezolanos a las malas, tras años de ver cómo la comunidad internacional miraba hacia otro lado mientras se violaban sistemáticamente nuestros derechos, es que a las superpotencias no les mueven las lágrimas, les mueven los números. Y el número que ha desencadenado todo esto no es el de muertos en protestas, sino el de **Tera vatios-hora**.
 
 La Inteligencia Artificial, esa entidad que nos prometieron que viviría en "la nube", tiene un cuerpo físico monstruoso y, sobre todo, un hambre insaciable. El algoritmo tiene sed. Y ha venido a beberse nuestro petróleo.
 

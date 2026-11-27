@@ -11,7 +11,7 @@ header:
 
 Nos hemos acostumbrado a leer las noticias internacionales como si fueran capítulos inconexos de una serie de Netflix. Un día Donald Trump lanza una amenaza arancelaria, al otro Pekín restringe la exportación de un mineral del que nunca habías oído hablar. Pero si damos un paso atrás, el ruido desaparece y emerge un patrón clarísimo: estamos viviendo el parto de un nuevo orden mundial. Y no, no es una exageración periodística.
 
-La historia tiene la mala costumbre de rimar. Si miramos atrás, la última vez que el tablero global se sacudió con esta violencia fue durante la Revolución Industrial. La máquina de vapor no solo sirvió para tejer telas más rápido; sirvió para re dibujar el mapa. El Imperio Británico no se construyó solo con diplomacia, se construyó sobre la ventaja asimétrica que le daba la tecnología. Quien tenía el vapor, tenía el poder. Los imperios agrarios, lentos y pesados, colapsaron porque simplemente no podían competir con la velocidad de la industria.
+La historia tiene la mala costumbre de rimar. Si miramos atrás, la última vez que el tablero global se sacudió con esta violencia fue durante la Revolución Industrial. La máquina de vapor no solo sirvió para tejer telas más rápido; sirvió para redibujar el mapa. El Imperio Británico no se construyó solo con diplomacia, se construyó sobre la ventaja asimétrica que le daba la tecnología. Quien tenía el vapor, tenía el poder. Los imperios agrarios, lentos y pesados, colapsaron porque simplemente no podían competir con la velocidad de la industria.
 
 Hoy, la Inteligencia Artificial es la nueva máquina de vapor.
 
