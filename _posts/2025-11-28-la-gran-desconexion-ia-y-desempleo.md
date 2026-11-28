@@ -44,3 +44,8 @@ La IA no se va a detener. La eficiencia es una droga demasiado potente para el c
 Esto nos lleva a una conclusión inevitable, una que hace cinco años parecía cosa de utopistas radicales: necesitamos un nuevo contrato social. La idea de que "trabajar para vivir" es la única vía de subsistencia se está volviendo obsoleta porque el sistema ya no necesita nuestro trabajo para generar riqueza, solo necesita nuestro consumo, [esto lo explica bien mi colega Elon (;)) en este video](https://www.youtube.com/shorts/k8-_qGsQVZo).
 
 Es probable que de aquí a 2030, el debate político número uno en todas las democracias occidentales no sea la inmigración o la identidad, sino la implementación de una Renta Básica Universal o un mecanismo de "Dividendo Digital". No por caridad, sino por pura supervivencia económica. Si los algoritmos hacen el trabajo, ¿quién tendrá dinero para comprar los productos?
+
+
+---
+
+> **Actualización (26-nov-2026):** Este artículo planteaba la brecha entre eficiencia y empleo y abogaba por un nuevo contrato social, pero sin precisar cuál. Hace un mes, Google DeepMind publicó [Economic Policy for AGI](https://sinapsis.jbaez.net/2026/11/26/deepmind-economic-policy-agi.html), un estudio que toma exactamente esa pregunta y la evalúa con datos: la renta básica universal figura como una de sus intervenciones, y el hallazgo central es una correlación negativa entre popularidad y durabilidad de las políticas. Es decir, lo que entonces proponía de forma general ahora se puede someter a prueba bajo múltiples escenarios. Conviene leer ambos textos juntos: aquí está la intuición y la urgencia; en el paper de DeepMind, la metodología y la advertencia de que no existe una política universalmente óptima.
