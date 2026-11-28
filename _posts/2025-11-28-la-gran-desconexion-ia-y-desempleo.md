@@ -9,7 +9,7 @@ header:
   teaser: "assets/images/ia-desempleo.png"
 ---
 
-Estamos a los inicios de diciembre de 2025 y creo que es hora de que dejemos de mentirnos a nosotros mismos. Durante los últimos tres años, hemos repetido como un mantra tranquilizador aquella vieja promesa de las revoluciones industriales pasadas: "la tecnología no destruye empleo, solo lo transforma". Nos aferramos a la idea de que la Inteligencia Artificial sería un "copiloto", una herramienta para hacernos más productivos, no para reemplazarnos. Me gustaría conocer la opinión de Microsoft sobre los copilotos X) /s.
+Estamos a los inicios de diciembre de 2025 y creo que es hora de que dejemos de mentirnos a nosotros mismos. Durante los últimos tres años, hemos repetido como un mantra tranquilizador aquella vieja promesa de las revoluciones industriales pasadas: "la tecnología no destruye empleo, solo lo transforma". Nos aferramos a la idea de que la Inteligencia Artificial sería un "copiloto", una herramienta para hacernos más productivos, no para reemplazarnos. Me gustaría conocer la opinión de Microsoft sobre los copilotos.
 
 Sin embargo, si miramos por la ventana de la economía global en este cierre de año, el paisaje es muy distinto al que nos vendieron los optimistas de Silicon Valley. La realidad se ha impuesto con la frialdad de un algoritmo bien entrenado. Nos encontramos ante una desconexión histórica entre la productividad empresarial y la necesidad de mano de obra humana. Y duele admitirlo, pero la "Idea Bruta" que muchos temían en silencio se está cumpliendo: el desempleo estructural está aumentando, y la IA es la causa principal.
 
