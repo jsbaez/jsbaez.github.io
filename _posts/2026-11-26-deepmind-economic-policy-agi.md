@@ -47,22 +47,6 @@ La implicación práctica es la soberanía institucional. Como señala [Singular
 
 Para el lector ingeniero, la lección es doble. La soberanía computacional e institucional es la respuesta a las recetas centralizadas: lo que funciona en un país puede colapsar en otro. Convierte el dato en advertencia.
 
-```mermaid
-flowchart TD
-    A[Capacidad IA avanza] --> B[Instituciones económicas rezagadas]
-    B --> C{Evaluar políticas}
-    C --> D[Apoyo popular]
-    C --> E[Durabilidad]
-    D --> F[Corr. negativa]
-    E --> F
-    F --> G[Paquete escalonado]
-    G --> H[Evaluación local]
-```
-
-*Figura 1: La tensión entre popularidad y durabilidad que obliga a localizar toda política.*
-
-El diagrama resume la lógica del documento: la presión sobre las instituciones obliga a evaluar, y esa evaluación revela una tensión estructural. La consecuencia es que ninguna receta centralizada basta; la respuesta exige adaptación local, que es precisamente el valor que defiende esta trilogía.
-
 ## Hacia un contrato social evaluado
 
 La tesis que defendía desde la introducción se reafirma a la luz de lo argumentado, pero con un matiz que la profundiza. El paper de DeepMind no es la receta de un futuro deseable, sino el capítulo dos de una trilogía que conecta el control con las instituciones. Sus datos enriquecen y matizan la respuesta que yo abogaba, y su mayor aporte es demostrar que no existe una política universalmente óptima.
